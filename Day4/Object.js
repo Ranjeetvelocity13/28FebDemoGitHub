@@ -27,6 +27,3 @@ console.log(car.make); // Output: Toyota
 console.log(car.model); // Output: Camry
 console.log(car.year); // Output: 2020
 
-// Objects can also contain nested objects
-let company = {
-    name: "Tech Co",
