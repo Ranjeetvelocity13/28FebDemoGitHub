@@ -19,11 +19,12 @@ console.log(person.greet()); // Output: Hello, my name is Alice
 
 // You can also create objects using the Object constructor
 let car = new Object();
-car.make = "Toyota";
+car.make = "Seltos";
 car.model = "Camry";
 car.year = 2020;
 
-console.log(car.make); // Output: Toyota
+console.log(car.make); // Output: Seltos
 console.log(car.model); // Output: Camry
 console.log(car.year); // Output: 2020
 
+console.log(car); // Output: { make: 'Toyota', model: 'Camry', year: 2020 } 
