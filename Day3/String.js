@@ -15,6 +15,7 @@ let person = {
     name: "Alice",
     age: 25,
     isStudent: Test
+    isStudent: true
 };
 console.log(person);
 
