@@ -14,7 +14,7 @@ console.log(hobbies);
 let person = {
     name: "Alice",
     age: 25,
-    isStudent: false
+    isStudent: Test
 };
 console.log(person);
 
